@@ -23,3 +23,4 @@ client-tuesday/yarn-debug.log*
 client-tuesday/yarn-error.log*
 
 server-tuesday/tmp
+server-tuesday/log
