@@ -26,10 +26,9 @@ class UsersController < ApplicationController
   end
 
   def destroy
+
     @user.destroy
-    respond_to do |format|
-      format.json { head :no_content }
-    end
+
   end
 
   private
@@ -38,6 +37,6 @@ class UsersController < ApplicationController
   end
 
   def user_params
-    params.require(:user).permit(:name, :email, :admin, :password)
+    params.require(:user).permit(:name, :email, :admin, :password, :memberships => [])
   end
 end
