@@ -33,7 +33,7 @@ This was our third project at General Assembly's Software Engineering Immersive 
 * Bcrypt - for user authentication
 
 
-## Contributions
+## Contributors
 
 * @JinSeal
 * @shaneenvitug
@@ -41,11 +41,11 @@ This was our third project at General Assembly's Software Engineering Immersive 
 
 ## Key Features
 
-* **Create custom groups for tasks**
-* **Add and delete tasks**
-* **Select status, priority, due date and owner of each task**
-* **Invite members to join the project**
-* **Switch between various project dashboards**
+* Create custom groups for tasks
+* Add and delete tasks
+* Select status, priority, due date and owner of each task
+* Invite members to join the project
+* Switch between various project dashboards
 
 ## Learnings
 
