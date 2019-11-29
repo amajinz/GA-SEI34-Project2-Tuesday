@@ -8,9 +8,6 @@ client-tuesday/.pnp.js
 # testing
 client-tuesday/coverage
 
-# production
-client-tuesday/build
-
 # misc
 client-tuesday/.DS_Store
 client-tuesday/.env.local
