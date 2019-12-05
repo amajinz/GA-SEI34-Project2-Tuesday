@@ -2,11 +2,13 @@
 
 This project is a simplified clone of [Monday](https://monday.com/). It allows teams to collaborate on projects, where you can group tasks and track the status of each task.
 
-Free free to test out our app here.
+Free free to test out our app [here](https://client-tuesday.1183958.now.sh/).
 
 ## Getting started
 
-Feel free to clone the repository or download locally. Ensure you run `npm install` in the client-tuesday directory and `bundle` and `rails db:migrate` in the server-tuesday directory.
+Feel free to clone the repository or download locally.
+
+Ensure you run `npm install` in the client-tuesday directory and `bundle` and `rails db:migrate` in the server-tuesday directory.
 
 ## Motivation
 
